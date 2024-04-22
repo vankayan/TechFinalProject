@@ -49,35 +49,35 @@ Open localhost: and to find the magic
 
 This is the Home Page of the output
 
-![HomePage](../images/1.jpg)
+![HomePage](images/1.jpg)
 
-![Fitscreen](..assets/2.jpg)
+![Fitscreen](images/2.jpg)
 
-![Fitscreen](..assets/3.jpg)
+![Fitscreen](images/3.jpg)
 
-![Fitscreen](..assets/4.jpg)
+![Fitscreen](images/4.jpg)
 
-![JumpingJacks](..assets/5.jpg)
+![JumpingJacks](images/5.jpg)
 
-![RestScreen](..assets/6.jpg)
+![RestScreen](images/6.jpg)
 
 ![FitScreen](images/7.jpg)
 
-![Finishing the exercises](..assets/8.jpg)
+![Finishing the exercises](images/8.jpg)
 
-![Fitscreen](..assets/9.jpg)
+![Fitscreen](images/9.jpg)
 
-![HomeSCreen](..assets/10.jpg)
+![HomeSCreen](images/10.jpg)
 
-![Restscreen](..assets/11.jpg)
+![Restscreen](images/11.jpg)
 
-![Workoutscreen](..assets/12.jpg)
+![Workoutscreen](images/12.jpg)
 
-![App](..assets/13.jpg)
+![App](images/13.jpg)
 
-![context](.assets/14.jpg)
+![context](images/14.jpg)
 
-![stacknavigator](..assets/15.jpg)
+![stacknavigator](images/15.jpg)
 
 
 <a name="pre"></a>
