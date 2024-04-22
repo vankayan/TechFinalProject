@@ -37,7 +37,7 @@ Open it in the [Expo app](https://expo.io) on your phone to view it. It will rel
 
 Like npm start / yarn start, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
 
-#### npm run android
+#### npm run android or npx expo start and then press a to run on android
 
 Like npm start / yarn start, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
 
@@ -46,6 +46,38 @@ Open the Source code folder and open hire book code in your editor and
 $ npm i
 $ npm run expo ..
 Open localhost: and to find the magic
+
+This is the Home Page of the output
+
+![HomePage](..assets/1.jpg)
+
+![Fitscreen](..assets/2.jpg)
+
+![Fitscreen](..assets/3.jpg)
+
+![Fitscreen](..assets/4.jpg)
+
+![JumpingJacks](..assets/5.jpg)
+
+![RestScreen](..assets/6.jpg)
+
+![FitScreen](images/7.jpg)
+
+![Finishing the exercises](..assets/8.jpg)
+
+![Fitscreen](..assets/9.jpg)
+
+![HomeSCreen](..assets/10.jpg)
+
+![Restscreen](..assets/11.jpg)
+
+![Workoutscreen](..assets/12.jpg)
+
+![App](..assets/13.jpg)
+
+![context](.assets/14.jpg)
+
+![stacknavigator](..assets/15.jpg)
 
 
 <a name="pre"></a>
