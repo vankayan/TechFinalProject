@@ -63,21 +63,69 @@ This is the Home Page of the output
 
 ![FitScreen](images/7.jpg)
 
+
 ![Finishing the exercises](images/8.jpg)
 
 ![Fitscreen](images/9.jpg)
 
+FitScreen is a React Native component for fitness apps, displaying exercise details and allowing users to track progress. It features seamless navigation, exercise completion tracking, and responsive design
+
+
+
 ![HomeSCreen](images/10.jpg)
+
+HomeScreen is a React Native component for fitness apps, showing key stats and offering dark mode toggle. It's user-friendly and integrates seamlessly with fitness data.
+
 
 ![Restscreen](images/11.jpg)
 
+RestScreen in React Native offers a countdown timer for users to take a break, seamlessly integrating with navigation. It provides visual cues and ensures a refreshing pause during workout sessions.
+
+
 ![Workoutscreen](images/12.jpg)
+
+
+WorkoutScreen in React Native displays exercise details with completion status. It enables users to start their workout routines with a simple click.
+
 
 ![App](images/13.jpg)
 
+This code defines an App component that wraps a FitnessContext provider around a StackNavigator component, also setting the status bar style and background color using Expo's StatusBar component.
+
 ![context](images/14.jpg)
 
+This code creates a context named FitnessContext to manage fitness-related state data, including completed exercises, workout count, burned calories, and exercise duration. It utilizes React's createContext and useState hooks to initialize and update the context's state values.
+
+
 ![stacknavigator](images/15.jpg)
+
+This code defines a StackNavigator component using React Navigation for native platforms, managing a stack of screens including Home, Workout, Fit, and Rest screens. It utilizes createNativeStackNavigator to create a stack navigator and sets options to hide the header for all screens.
+
+
+Overview:
+In a fitness app, the FitnessContext keeps track of important fitness details like completed workouts, calories burned, and workout duration. It acts as a central hub for storing and managing this information. The StackNavigator handles moving between different parts of the app, like the Home screen for an overview, Workout screen to start exercising, Fit screen to track progress, and Rest screen for recovery. Together, these components ensure users can smoothly navigate and keep tabs on their fitness journey, from starting a workout to resting afterward, all while keeping their data organized and accessible.
+
+
+This fitness software seeks to offer users a comprehensive platform for tracking fitness progress, managing exercises, and monitoring health objectives. It has a variety of displays and features to ensure a smooth exercise experience.
+
+
+The project begins by creating the FitnessContext, which serves as a consolidated repository for critical fitness data. React's createContext and useState are used to handle variables such as completed workouts, calories burnt, and exercise duration. This context serves as the backbone, allowing for simple access and modification of fitness-related information across the program.
+
+
+Navigation: The program then implements scrolling using the StackNavigator. This component makes use of the React Navigation library's NavigationContainer and createNativeStackNavigator methods. It allows for seamless transitions between displays, including the Home screen for an overview, the Workout screen for workout routines, the Fit screen for progress monitoring, and the Rest screen for recuperation intervals.
+
+
+Screening Components:
+Each screen in the app serves a specific purpose:
+Home Screen: Offers an overview of the app's features and options for navigation to different sections.
+Workout Screen: Allows users to select and perform various workout routines, providing instructions and timing.
+Fit Screen: Displays users' fitness progress, including metrics like calories burned, workout duration, and achievements.
+Rest Screen: Provides a dedicated space for users to rest and recover between workouts, promoting a balanced fitness regimen.
+
+UI Customization:
+Throughout the project, UI aspects are carefully considered to ensure a visually appealing & user-friendly experience. Elements like as headers, navigation choices, & screen layouts are tailored to match the app's style and improve usability.
+
+The project has amazing features such as establishing preferences, tracking your progress, and allowing you to interact with the app seamlessly. It's similar to having buttons to click, fields to put in, and bars that show how far you've progressed in your fitness quest. These features make it simple for you to use the app and track your progress toward your fitness and wellness objectives.
 
 
 <a name="pre"></a>
@@ -87,6 +135,9 @@ JavaScript
 React
 Expo
 React Native Navigation
+
+
+Video Link: https://mailuc-my.sharepoint.com/:v:/g/personal/vankayan_mail_uc_edu/EdrZnEWKL-VKkC_jzvksFGABRfXR-S_65cNZIMCDpZumFg?e=NAqcWZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
