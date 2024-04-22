@@ -51,7 +51,12 @@ This is the Home Page of the output
 
 ![HomePage](images/1.jpg)
 
+When you click on the "Full Body Workouts" option, it will take you to the `FitScreen.js`, where you can engage with the exercises designed for the entire body.
+
+
 ![Fitscreen](images/2.jpg)
+
+
 
 ![Fitscreen](images/3.jpg)
 
@@ -59,10 +64,13 @@ This is the Home Page of the output
 
 ![JumpingJacks](images/5.jpg)
 
+Upon clicking "start," the application will navigate to the `RestScreen.js`, where users can take a break and rest between workout sessions.
+
 ![RestScreen](images/6.jpg)
 
 ![FitScreen](images/7.jpg)
 
+In the `context.js` file, there's code that keeps track of the calories burned, workouts completed, and minutes spent exercising. Once you finish a workout, this information updates automatically on the home page, so you can see your progress right away.
 
 ![Finishing the exercises](images/8.jpg)
 
