@@ -49,7 +49,7 @@ Open localhost: and to find the magic
 
 This is the Home Page of the output
 
-![HomePage](..assets/1.jpg)
+![HomePage](../images/1.jpg)
 
 ![Fitscreen](..assets/2.jpg)
 
